@@ -2,13 +2,9 @@
 
 This is Tor expert bundle for windows
 
-<br/>
-
 ## Port numbers
 
 This repository is a configured Tor binaries without any browser. Just a socks v5 proxy on port `9050` (default tor port).
-
-<br/>
 
 ## Installation
 
@@ -20,13 +16,10 @@ Download zip file from releases and extract it to `C:\Program Files (x86)\` .You
 ![](images/installation-directory.png)
 
 </details>
-<br/>
 
 ## Tor cache directory
 
-Its default path: `%APPDATA%\tor` .
-
-<br/>
+It's default path: `%APPDATA%\tor` .
 
 ## How to use
 
@@ -38,7 +31,7 @@ Its default path: `%APPDATA%\tor` .
 
     -   Run on windows startup:
 
-        to start Tor on windows startup, put a shortcut of `tor-bg.vbs` into windows startup folder:
+        to start Tor on windows startup, put a shortcut of `tor-bg.vbs` into windows startup folder (system wide or user level):
 
         -   system wide:
 
@@ -46,7 +39,7 @@ Its default path: `%APPDATA%\tor` .
             C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
             ```
 
-        -   user:
+        -   or user level:
 
             ```
             %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
@@ -69,8 +62,6 @@ Its default path: `%APPDATA%\tor` .
 
     ![](images/SwitchyOmega-5.png)
     </details>
-
-<br/>
 
 ## Compatibility
 
