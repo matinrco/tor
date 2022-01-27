@@ -8,7 +8,7 @@ This repository is a configured Tor binaries without any browser. Just a socks v
 
 ## Installation
 
-Download zip file from [releases](https://github.com/matinrco/tor/releases/latest) and extract it to `C:\Program Files (x86)\` .You can add this directory to windows path to access it via command line.
+Download zip file from [releases](https://github.com/matinrco/tor/releases/latest) and extract it to `C:\Program Files (x86)\Tor` .You can add this directory to windows path to access it via command line.
 
 <details>
 <summary>Click here to view in details</summary>
